@@ -1,0 +1,6 @@
+kaggle
+pandas
+pydot
+scikit-image
+scikit-learn
+seaborn
